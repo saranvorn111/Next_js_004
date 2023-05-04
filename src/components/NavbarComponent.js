@@ -8,8 +8,9 @@ export default function NavbarComponent() {
         <Container>         
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/about">About Us</Nav.Link>
-            <Nav.Link href="/movie">Movie</Nav.Link>
+            <Nav.Link href="/about">About Us</Nav.Link>            
+            <Nav.Link href="/countries">Countries</Nav.Link>
+            <Nav.Link href="/products">Product</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
